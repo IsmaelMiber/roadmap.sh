@@ -8,7 +8,7 @@ Wikipedia describes them as
 
 ## Be Careful
 
-Developers, mostly beginners, make the mistake of over-thinking and forcing the design patterns which results in a horrible un-maintainable mess. The rule of thumb is to keep the codebase as simple as possible, once you start developing, you will start to see the patterns repeating in the codebase in which case you can go ahead and implement the relevant design patterns.
+Developers, mostly beginners, make the mistake of over-thinking and forcing the design patterns which results in a horrible un-maintainable mess. **The rule of thumb is to keep the codebase as simple as possible, once you start developing, you will start to see the patterns repeating in the codebase in which case you can go ahead and implement the relevant design patterns.**
 
 - Design patterns are not a silver bullet to all your problems.
 - Do not try to force them; bad things are supposed to happen, if done so. 
